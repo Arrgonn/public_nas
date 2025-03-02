@@ -25,7 +25,7 @@
 # **NAS Projet**
 ## **Introduction**
 ### **Le prélude**
-Maintenant que le NAS est configuré avec les services souhaités (dans mon cas, JellyFin & Minecraft Server), il nous faut un moyen de l'ouvrir. Quoi de plus facile qu'un bot Discord !
+Maintenant que le NAS est configuré avec les services souhaités (dans mon cas, JellyFin & Minecraft Server), il nous faut un moyen de le gérer facilement. Quoi de plus facile qu'un bot Discord !
 
 ### **Présentation des modules principaux**
 #### **discord.py**
